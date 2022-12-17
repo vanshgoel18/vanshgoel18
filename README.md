@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning front end libraries
 - ⏩ I’m looking to collaborate on Front end prjoects and full-stack projects in the future.
 - 📧 How to reach me: Find me on Twitter at-https://twitter.com/Vansh_UP_19 / Find me on LinkedIn at-https://www.linkedin.com/in/vansh-goel-100928221/ or e-mail at- goelvansh2703@gmail.com
-<img src="https://komarev.com/ghpvc/?username=vanshgoel18&style=flat-square&color=blue" alt="View count" align="center">
 
 ---
 
