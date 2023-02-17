@@ -9,18 +9,6 @@
 - 📧 How to reach me: Find me on Twitter at-https://twitter.com/Vansh_UP_19 / Find me on LinkedIn at-https://www.linkedin.com/in/vansh-goel-100928221/ or E-Mail at- goelvansh2703@gmail.com
 
 ---
-
-<!--### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
-<div id="badges>
-  <a href="https://www.linkedin.com/in/vansh-goel-100928221/" width="15px">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>                                                                                                                           
-  <a href="https://twitter.com/Vansh_UP_19">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>                                                                                                                         
-  </div>
--->
----
                                                                                                        
 ### <img align="bottom" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">My tools of Trade:                                             
 <div>
