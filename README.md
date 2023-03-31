@@ -6,7 +6,7 @@
 - 👀 I’m interested in becoming a full-stack web developer
 - 🌱 I’m currently learning front end libraries
 - ⏩ I’m looking to collaborate on Front end prjoects and full-stack projects in the future.
-- 📧 How to reach me: Find me on Twitter at-https://twitter.com/Vansh_UP_19 / , Read my Blogs on Hashnode-https://vanshgoel019.hashnode.dev/ , Find me on LinkedIn at-https://www.linkedin.com/in/vansh-goel-100928221/ or E-Mail at- goelvansh2703@gmail.com
+- 📧 How to reach me: Find me on Twitter at-https://twitter.com/Vansh_UP_19  , Read my Blogs on Hashnode-https://vanshgoel019.hashnode.dev/ , Find me on LinkedIn at-https://www.linkedin.com/in/vansh-goel-100928221/ or E-Mail at- goelvansh2703@gmail.com
 
 ---
                                                                                                        
