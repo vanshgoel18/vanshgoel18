@@ -22,10 +22,6 @@
 ---
                                                                                                                                                    
 ### <img src="https://media.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif" width="20px"> My Stats :
-
----
                                                                                                        
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshgoel18&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgoel18&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
