@@ -10,7 +10,7 @@
 
 ---
                                                                                                        
-<!-- ### <img align="bottom" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">My tools of Trade:                                             
+### <img align="bottom" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">My Tools of Trade:                                             
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -20,9 +20,9 @@
 </div>                                                                                                       
 
 ---
-   -->                                                                                                                                                     
+                                                                                                                                                   
 ### <img src="https://media.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif" width="20px"> My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vanshgoel18&theme=tokyonight&hide_border=true&stroke=D6DD1A&fire=FFF92D&dates=DDDDDD)](https://git.io/streak-stats)
+
 ---
                                                                                                        
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshgoel18&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
