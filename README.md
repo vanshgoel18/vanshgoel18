@@ -11,9 +11,8 @@
 ---
 
 ### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
-<div id="badges>
-  <a href="" >
-  </a>                                                                                                                       
+<div id="badges">
+                                                                                                                       
   <a href="https://twitter.com/GoelVansh_19">
   <img src="https://img.shields.io/badge/Vansh Goel-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>&nbsp; 
@@ -21,6 +20,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   </div>
+
 ---
                                                                                                        
 ### <img align="bottom" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">My Tools of Trade:                                             
