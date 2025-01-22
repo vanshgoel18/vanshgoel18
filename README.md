@@ -24,7 +24,7 @@ Master the art of end-to-end web development<br>
 💡 Looking for collaboration? Feel free to reach out!<br>
 💬 Let’s discuss ideas, projects, or tech trends<br>
 📧 How to reach me: E-Mail at- goelvansh2703@gmail.com<br>
-🌟 You can connect with me on my social media<br>
+🌟 You can also connect with me on my social media<br>
 
 
 ---
