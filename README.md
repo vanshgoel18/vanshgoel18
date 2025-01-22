@@ -11,7 +11,7 @@
 ---
 
 ### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
-<div id="badges">
+<div>
    <a href="https://www.linkedin.com/in/vansh-goel-100928221/"> 
 <img src="https://img.shields.io/badge/Vansh's LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>&nbsp;
 </a>    
