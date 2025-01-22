@@ -1,5 +1,4 @@
-<h1> Hello World! I am Vansh Goel
-  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px">
+<h1> <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px"> Hello World! I am Vansh Goel
 </h1>
   
 ### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me: 
