@@ -15,10 +15,10 @@
   <a href="" >
   </a>                                                                                                                       
   <a href="https://twitter.com/GoelVansh_19">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge" height="50" width="50"/>
+  <img src="https://img.shields.io/badge/Ishaan2053-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>&nbsp; 
   <a href="https://www.linkedin.com/in/vansh-goel-100928221/"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn Badge" height="50" width="100"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   </div>
 ---
