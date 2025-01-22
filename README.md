@@ -21,6 +21,9 @@
   <a href="https://twitter.com/GoelVansh_19">
   <img src="https://img.shields.io/badge/Vansh Goel-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.instagram.com/vansh.goel.27/ ">
+  <img src="https://img.shields.io/badge/Vansh Goel-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  </a>
   </div>
 
 ---
