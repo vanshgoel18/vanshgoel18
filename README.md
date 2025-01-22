@@ -2,29 +2,29 @@
   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px">
 </h1>
   
-### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
+### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me: 
 🚀 Aspiring Full-Stack Web Developer | Front-End Enthusiast
 
-💻 What I’m up to:
-👀 Exploring the world of Full-Stack Web Development
-🌱 Currently learning front-end libraries like React, Vue, and more
-⏩ Excited to collaborate on Front-End Projects and Full-Stack adventures
+💻 What I’m up to: <br>
+👀 Exploring the world of Full-Stack Web Development<br>
+🌱 Currently learning front-end libraries like React, Vue, and more<br>
+⏩ Excited to collaborate on Front-End Projects and Full-Stack adventures<br>
 
-✨ What drives me:
-🖌️ Crafting user-friendly and visually stunning interfaces
-🌐 Building seamless and responsive web experiences
-🤝 Connecting with like-minded developers
+✨ What drives me:<br>
+🖌️ Crafting user-friendly and visually stunning interfaces<br>
+🌐 Building seamless and responsive web experiences<br>
+🤝 Connecting with like-minded developers<br>
 
-🎯 Goals:
-Level up in back-end technologies like Node.js and databases
-Contribute to impactful open-source projects
-Master the art of end-to-end web development
+🎯 Goals:<br>
+Level up in back-end technologies like Node.js and databases<br>
+Contribute to impactful open-source projects<br>
+Master the art of end-to-end web development<br>
 
-🔗 Let’s Connect:
-💡 Looking for collaboration? Feel free to reach out!
-💬 Let’s discuss ideas, projects, or tech trends
-- 📧 How to reach me: E-Mail at- goelvansh2703@gmail.com
-- 🌟 You can connect with me on my social media
+🔗 Let’s Connect:<br>
+💡 Looking for collaboration? Feel free to reach out!<br>
+💬 Let’s discuss ideas, projects, or tech trends<br>
+📧 How to reach me: E-Mail at- goelvansh2703@gmail.com<br>
+🌟 You can connect with me on my social media<br>
 
 
 ---
