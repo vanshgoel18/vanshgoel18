@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Vansh Goel-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>&nbsp; 
   <a href="https://www.linkedin.com/in/vansh-goel-100928221/"> 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   </div>
 ---
