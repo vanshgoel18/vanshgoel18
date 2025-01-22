@@ -13,12 +13,12 @@
 ### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
 <div id="badges>
   <a href="" >
-  </a>                                                                                                                           
+  </a>                                                                                                                       
   <a href="https://twitter.com/GoelVansh_19">
-  <img src="https://img.shields.io/badge/Vansh Goel-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
-  </a>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge" height="50" width="50"/>
+  </a>&nbsp; 
   <a href="https://www.linkedin.com/in/vansh-goel-100928221/"> 
-<img src="https://img.shields.io/badge/Vansh Goel-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn Badge" height="50" width="100"/>
 </a>
   </div>
 ---
