@@ -13,16 +13,16 @@
 ### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
 <div id="badges">
    <a href="https://www.linkedin.com/in/vansh-goel-100928221/"> 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linked&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/Vansh's LinkedIn?style=for-the-badge&logo=linked&logoColor=white" alt="LinkedIn Badge"/>
 </a>    
 <a href="https://vanshgoel27.hashnode.dev/"> 
 <img src="https://img.shields.io/badge/Vansh's Blog-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="LinkedIn Badge"/>
 </a>                                                                                                             
   <a href="https://twitter.com/GoelVansh_19">
-  <img src="https://img.shields.io/badge/Vansh Goel-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Vansh's Twitter-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.instagram.com/vansh.goel.27/ ">
-  <img src="https://img.shields.io/badge/Vansh Goel-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Vansh's Insta-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
 
