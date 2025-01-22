@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>    
 <a href="https://vanshgoel27.hashnode.dev/"> 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/Vansh's Blog-blue?style=for-the-badge&logo=hashnode&logoColor=white" alt="LinkedIn Badge"/>
 </a>                                                                                                             
   <a href="https://twitter.com/GoelVansh_19">
   <img src="https://img.shields.io/badge/Vansh Goel-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
