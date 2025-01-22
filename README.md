@@ -9,6 +9,17 @@
 - 📧 How to reach me: Find me on Twitter at-https://twitter.com/GoelVansh_19  , Read my Blogs on Hashnode-https://vanshgoel27.hashnode.dev/ , Find me on LinkedIn at-https://www.linkedin.com/in/vansh-goel-100928221/ or E-Mail at- goelvansh2703@gmail.com , My Instagram-https://www.instagram.com/vansh.goel.27/ 
 
 ---
+
+### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
+<div id="badges>
+  <a href="https://www.linkedin.com/in/vansh-goel-100928221/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>                                                                                                                           
+  <a href="https://Twitter.com/@Ishaan2053">
+  <img src="https://img.shields.io/badge/Ishaan2053-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+  </a>                                                                                                                         
+  </div>
+---
                                                                                                        
 ### <img align="bottom" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">My Tools of Trade:                                             
 <div>
